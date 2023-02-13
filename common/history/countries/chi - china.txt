@@ -8,6 +8,7 @@
 		add_technology_researched = centralization
 		add_technology_researched = steelworking
 		add_technology_researched = admiralty
+		add_technology_researched = international_trade
 		
 		set_market_capital = STATE_GUANGDONG	
 		
