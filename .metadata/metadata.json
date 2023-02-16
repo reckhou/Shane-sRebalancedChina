@@ -7,6 +7,13 @@
   "tags" : [],
   "relationships" : [],
   "game_custom_data" : {
-    "multiplayer_synchronized" : true
+    "multiplayer_synchronized" : true,
+    "replace_paths": [
+      "common/history/states",
+      "common/history/pops",
+      "common/history/buildings",
+      "map_data/state_regions",
+      "common/strategic_regions"
+    ]
   }
 }
