@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cwtools.rules_version": "manual",
+		"cwtools.rules_folder": "D:\\GitHub\\cwtools-vic3-config"
+	}
+}

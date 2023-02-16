@@ -1,6 +1,16 @@
 ﻿COUNTRIES = {
 	c:CHI = {
-		effect_starting_technology_tier_5_tech = yes
+		effect_starting_technology_tier_6_tech = yes
+		# Economic
+		add_technology_researched = manufacturies
+		add_technology_researched = shaft_mining
+		
+		# Military
+		add_technology_researched = military_drill
+		add_technology_researched = navigation
+		
+
+		add_technology_researched = tech_bureaucracy
 		add_technology_researched = sericulture
 		#add_technology_researched = academia
 		add_technology_researched = law_enforcement
@@ -9,7 +19,7 @@
 		add_technology_researched = steelworking
 		add_technology_researched = admiralty
 		add_technology_researched = international_trade
-		
+			
 		set_market_capital = STATE_GUANGDONG	
 		
 		activate_law = law_type:law_monarchy
