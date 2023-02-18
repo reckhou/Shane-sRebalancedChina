@@ -11530,7 +11530,7 @@ STATE_KIRGHIZIA = {
 	farm = "xAD3425"
 	mine = "x080348"
 	wood = "x71586F"
-	arable_land = 40
+	arable_land = 25
 	arable_resources = {
 		bg_wheat_farms bg_livestock_ranches bg_tea_plantations
 	}
@@ -11591,7 +11591,7 @@ STATE_JETISY = {
 	farm = "x61B92A"
 	mine = "x1240CA"
 	wood = "x5A8261"
-	arable_land = 50
+	arable_land = 40
 	arable_resources = {
 		bg_livestock_ranches
 	}
@@ -11745,7 +11745,7 @@ STATE_NGARI = {
 	farm = "x4F7572"
 	mine = "x63CF7D"
 	wood = "x3242A4"
-	arable_land = 45
+	arable_land = 35
 	arable_resources = {
 		bg_livestock_ranches
 	}
@@ -11766,7 +11766,7 @@ STATE_HIMALAYAS = {
 	farm = "x29576A"
 	mine = "x4DE9D5"
 	wood = "xE0B0E0"
-	arable_land = 15
+	arable_land = 30
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_cotton_plantations bg_opium_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12301,7 +12301,7 @@ STATE_DZUNGARIA = {
 	farm = "xF536A6"
 	mine = "x51EEA9"
 	wood = "x23E045"
-	arable_land = 30
+	arable_land = 20
 	arable_resources = {
 		bg_wheat_farms bg_livestock_ranches
 	}
@@ -12392,7 +12392,7 @@ STATE_GUIZHOU = {
 	farm = "x053F4B"
 	mine = "x109000"
 	wood = "xE0F060"
-	arable_land = 80
+	arable_land = 60
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_dye_plantations bg_opium_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12439,7 +12439,7 @@ STATE_ALXA = {
 	farm = "x91D0D9"
 	mine = "x9E1C8F"
 	wood = "x53E07B"
-	arable_land = 40
+	arable_land = 30
 	arable_resources = {
 		bg_livestock_ranches
 	}
@@ -12464,7 +12464,7 @@ STATE_HINGGAN = {
 	farm = "xE61212"
 	mine = "x7D03D7"
 	wood = "x356F29"
-	arable_land = 50
+	arable_land = 35
 	arable_resources = {
 		bg_livestock_ranches
 	}
@@ -12487,7 +12487,7 @@ STATE_GUANGXI = {
 	farm = "x8834F9"
 	mine = "x505080"
 	wood = "xCC1018"
-	arable_land = 300
+	arable_land = 270
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_silk_plantations bg_dye_plantations bg_tea_plantations bg_tobacco_plantations bg_banana_plantations
 	}
@@ -12506,7 +12506,7 @@ STATE_BEIJING = {
 	farm = "xB00D9D"
 	mine = "x0F5604"
 	wood = "xA0662C"
-	arable_land = 250
+	arable_land = 320
 	arable_resources = {
 		bg_wheat_farms bg_livestock_ranches bg_cotton_plantations bg_silk_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12529,7 +12529,7 @@ STATE_SHENGJING = {
 	farm = "x474AF5"
 	mine = "xD7F9BA"
 	wood = "xE9FEDB"
-	arable_land = 75
+	arable_land = 50
 	arable_resources = {
 		bg_wheat_farms bg_livestock_ranches bg_cotton_plantations bg_silk_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12555,7 +12555,7 @@ STATE_OUTER_MANCHURIA = {
 	farm = "x7D6986"
 	mine = "x5BD04E"
 	wood = "xB7CA59"
-	arable_land = 70
+	arable_land = 50
 	arable_resources = {
 		bg_livestock_ranches
 	}
@@ -12586,7 +12586,7 @@ STATE_SOUTHERN_MANCHURIA = {
 	farm = "x385E45"
 	mine = "x7D7703"
 	wood = "xD0B04D"
-	arable_land = 150
+	arable_land = 190
 	arable_resources = {
 		bg_wheat_farms bg_livestock_ranches bg_cotton_plantations bg_silk_plantations
 	}
@@ -12631,7 +12631,7 @@ STATE_SHANXI = {
 	farm = "x62F096"
 	mine = "x2BAB5F"
 	wood = "x2E331F"
-	arable_land = 350
+	arable_land = 320
 	arable_resources = {
 		bg_wheat_farms bg_livestock_ranches bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12659,7 +12659,7 @@ STATE_NINGXIA = {
 	farm = "x23D056"
 	mine = "x1D97FA"
 	wood = "xAC32B2"
-	arable_land = 100
+	arable_land = 150
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12725,7 +12725,7 @@ STATE_QINGHAI = {
 	farm = "xBF0F3F"
 	mine = "xCE8D54"
 	wood = "xCF5578"
-	arable_land = 60
+	arable_land = 40
 	arable_resources = {
 		bg_livestock_ranches
 	}
@@ -12774,7 +12774,7 @@ STATE_GUANGDONG = {
 	farm = "xFEBFD5"
 	mine = "x30B0E0"
 	wood = "xA92B88"
-	arable_land = 250
+	arable_land = 260
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_silk_plantations bg_dye_plantations bg_tea_plantations bg_tobacco_plantations bg_banana_plantations
 	}
@@ -12795,7 +12795,7 @@ STATE_FUJIAN = {
 	farm = "x2028A1"
 	mine = "xA9286D"
 	wood = "x13C257"
-	arable_land = 250
+	arable_land = 300
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_silk_plantations bg_dye_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12837,7 +12837,7 @@ STATE_JIANGSU = {
 	farm = "xDB13A1"
 	mine = "xEF14F8"
 	wood = "xD39CAD"
-	arable_land = 210
+	arable_land = 250
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_cotton_plantations bg_silk_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12860,7 +12860,7 @@ STATE_NANJING = {
 	farm = "x8111D0"
 	mine = "x0A91BF"
 	wood = "xADEC31"
-	arable_land = 270
+	arable_land = 230
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_cotton_plantations bg_silk_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12905,7 +12905,7 @@ STATE_ZHILI = {
 	farm = "x115101"
 	mine = "xAD4A5C"
 	wood = "x480190"
-	arable_land = 200
+	arable_land = 170
 	arable_resources = {
 		bg_wheat_farms bg_livestock_ranches bg_cotton_plantations bg_silk_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -12953,7 +12953,7 @@ STATE_SOUTHERN_ANHUI = {
 	farm = "x49873B"
 	mine = "x6ECE83"
 	wood = "x329B9F"
-	arable_land = 250
+	arable_land = 280
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_cotton_plantations bg_silk_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -13109,7 +13109,7 @@ STATE_SUZHOU = {
 	farm = "x86FF7E"
 	mine = "x6E575B"
 	wood = "x61F061"
-	arable_land = 100000
+	arable_land = 400
 	arable_resources = {
 		bg_rice_farms bg_livestock_ranches bg_cotton_plantations bg_silk_plantations bg_tea_plantations bg_tobacco_plantations
 	}
@@ -13129,7 +13129,7 @@ STATE_ULIASTAI = {
 	farm = "x9E2E49"
 	mine = "x705964"
 	wood = "x0D2595"
-	arable_land = 30
+	arable_land = 20
 	arable_resources = {
 		bg_livestock_ranches
 	}
@@ -13149,7 +13149,7 @@ STATE_URGA = {
 	farm = "xF01B63"
 	mine = "xB0126E"
 	wood = "xF35C78"
-	arable_land = 40
+	arable_land = 30
 	arable_resources = {
 		bg_livestock_ranches
 	}
@@ -15022,7 +15022,7 @@ STATE_TOMSK = {
 	farm = "x3EEF50"
 	mine = "xC126CD"
 	wood = "x17485E"
-	arable_land = 60
+	arable_land = 40
 	arable_resources = {
 		bg_rye_farms bg_livestock_ranches
 	}
@@ -15042,7 +15042,7 @@ STATE_TUVA = {
 	farm = "xC4AC17"
 	mine = "x1FB679"
 	wood = "x8C119F"
-	arable_land = 40
+	arable_land = 20
 	arable_resources = {
 		bg_rye_farms bg_livestock_ranches
 	}
