@@ -144,7 +144,7 @@ opium_wars.1 = {
 		}
 		add_modifier = {
 			name = opium_wars_addiction_modifier
-			months = normal_modifier_time
+			months = 1222
 		}
 		ai_chance = {
 			base = 100
@@ -154,7 +154,7 @@ opium_wars.1 = {
 		name = opium_wars.1.b
 		add_modifier = {
 			name = opium_wars_addiction_modifier
-			months = normal_modifier_time
+			months = 1222
 		}
 		ai_chance = {
 			base = 10
