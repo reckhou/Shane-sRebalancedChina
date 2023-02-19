@@ -10,7 +10,7 @@ china_welfare = {
 
 opium_wars_lost = {
 	icon = gfx/interface/icons/timed_modifier_icons/modifier_fist_negative.dds
-	country_legitimacy_base_add = -25
+	country_legitimacy_base_add = -135
 	state_turmoil_effects_mult = 0.25
 	state_radicals_from_sol_change_mult = 0.33
 	country_prestige_mult = -0.25

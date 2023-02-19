@@ -144,7 +144,7 @@ opium_wars.1 = {
 		}
 		add_modifier = {
 			name = opium_wars_addiction_modifier
-			months = 1222
+			months = 841
 		}
 		ai_chance = {
 			base = 100
